@@ -11,11 +11,9 @@ Run `truffle create test YourTestName` to scaffold a test
 
 Run `truffle compile` to compile all contracts in the ./contracts folder
 
-Run `truffle deploy --reset` for
-
 ## Troubleshooting truffle console
 
-for errors in truffle console like "YourFunction" is not a function try truffle deploy --reset
+for errors in truffle console like "YourFunction" is not a function try `truffle deploy --reset`
 
 
 
